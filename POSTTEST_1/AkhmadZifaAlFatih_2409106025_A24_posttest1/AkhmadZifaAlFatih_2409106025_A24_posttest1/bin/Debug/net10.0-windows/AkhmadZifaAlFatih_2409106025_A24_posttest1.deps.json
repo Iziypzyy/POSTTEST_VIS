@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AkhmadZifaAlFatih_2409106025_A24_posttest1/1.0.0": {
+        "runtime": {
+          "AkhmadZifaAlFatih_2409106025_A24_posttest1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AkhmadZifaAlFatih_2409106025_A24_posttest1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

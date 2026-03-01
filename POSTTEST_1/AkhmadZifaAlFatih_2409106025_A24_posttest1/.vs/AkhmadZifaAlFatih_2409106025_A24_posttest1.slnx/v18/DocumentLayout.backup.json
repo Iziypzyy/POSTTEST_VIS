@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\AkhmadZifaAlFatih_2409106025_A24_posttest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C66DC157-0EE4-8DE0-D61A-AB3D296922BF}|AkhmadZifaAlFatih_2409106025_A24_posttest1\\AkhmadZifaAlFatih_2409106025_A24_posttest1.vbproj|c:\\users\\asus\\source\\repos\\akhmadzifaalfatih_2409106025_a24_posttest1\\akhmadzifaalfatih_2409106025_a24_posttest1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{C66DC157-0EE4-8DE0-D61A-AB3D296922BF}|AkhmadZifaAlFatih_2409106025_A24_posttest1\\AkhmadZifaAlFatih_2409106025_A24_posttest1.vbproj|solutionrelative:akhmadzifaalfatih_2409106025_a24_posttest1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C66DC157-0EE4-8DE0-D61A-AB3D296922BF}|AkhmadZifaAlFatih_2409106025_A24_posttest1\\AkhmadZifaAlFatih_2409106025_A24_posttest1.vbproj|c:\\users\\asus\\source\\repos\\akhmadzifaalfatih_2409106025_a24_posttest1\\akhmadzifaalfatih_2409106025_a24_posttest1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{C66DC157-0EE4-8DE0-D61A-AB3D296922BF}|AkhmadZifaAlFatih_2409106025_A24_posttest1\\AkhmadZifaAlFatih_2409106025_A24_posttest1.vbproj|solutionrelative:akhmadzifaalfatih_2409106025_a24_posttest1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AkhmadZifaAlFatih_2409106025_A24_posttest1\\AkhmadZifaAlFatih_2409106025_A24_posttest1\\Form1.vb",
+              "RelativeDocumentMoniker": "AkhmadZifaAlFatih_2409106025_A24_posttest1\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AkhmadZifaAlFatih_2409106025_A24_posttest1\\AkhmadZifaAlFatih_2409106025_A24_posttest1\\Form1.vb*",
+              "RelativeToolTip": "AkhmadZifaAlFatih_2409106025_A24_posttest1\\Form1.vb*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-27T12:01:18.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\AkhmadZifaAlFatih_2409106025_A24_posttest1\\AkhmadZifaAlFatih_2409106025_A24_posttest1\\Form1.vb",
+              "RelativeDocumentMoniker": "AkhmadZifaAlFatih_2409106025_A24_posttest1\\Form1.vb",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\AkhmadZifaAlFatih_2409106025_A24_posttest1\\AkhmadZifaAlFatih_2409106025_A24_posttest1\\Form1.vb [Design]",
+              "RelativeToolTip": "AkhmadZifaAlFatih_2409106025_A24_posttest1\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-02-27T11:59:08.038Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
