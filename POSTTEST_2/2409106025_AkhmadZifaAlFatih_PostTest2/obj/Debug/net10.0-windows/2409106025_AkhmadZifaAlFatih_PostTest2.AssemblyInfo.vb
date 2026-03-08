@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("2409106025_AkhmadZifaAlFatih_PostTest2"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+742e0ca8c031fdc35d8ff05d6df5cc1d124d51b8"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33aedb68a483ccfefb9b13ccb29b43aa74959873"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("2409106025_AkhmadZifaAlFatih_PostTest2"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("2409106025_AkhmadZifaAlFatih_PostTest2"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
